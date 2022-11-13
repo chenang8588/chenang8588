@@ -2,7 +2,7 @@
 - 👀 I’m interested in code.
 - 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on code.
-- 📫 e-mail:chenang0590@qq.com    chenang1350590@outlook.com
+- 📫 e-mail:chenang0590@qq.com
 
 <!---
 chenang8588/chenang8588 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
